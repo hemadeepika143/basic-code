@@ -1,0 +1,13 @@
+import java.util.*;
+class array{
+      public static void main (string[] args){
+       int key=42;
+       int[]arr={10,20,40,42,30,11};
+       for(int i=0;i<arr.length; i++);{
+          if(arr[i]== key){
+             system.out.print("Found");
+                bread;
+          }
+      }
+   }
+}
