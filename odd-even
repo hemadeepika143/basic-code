@@ -1,0 +1,14 @@
+import java.util.*;
+class evenodd{
+      public static void main (string[] args){
+      scanner sc=new scanner(system.in);
+	    int num=sc.nextInt[]; 
+	  	System.out.println("Enter the number:");
+	  	if (num%2==0){
+		      system.ot println("even");
+		  }
+		  else{
+		      system.ot println("odd"); 
+		}
+	}
+}
